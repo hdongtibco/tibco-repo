@@ -1,0 +1,8 @@
+
+<project name="Tag: com.tibco.sample.feature : common.tools.sample-1.0.0.003">
+            <property name="autobuild.svn.tag.target" value="common.tools.sample-1.0.0.003" />
+            <property name="autobuild.svn.tagsURL" value="https://svn.tibco.com:8443/svn/devtools/branches/huaweiSandbox/tags/tools" />
+            <property name="autobuild.svn.tag.target.url" value="https://svn.tibco.com:8443/svn/devtools/branches/huaweiSandbox/tags/tools/common.tools.sample-1.0.0.003" />
+            <property name="autobuild.svn.tag.target.revision" value="9102" />
+            <property name="autobuild.svn.tag.target.source.url" value="https://svn.tibco.com:8443/svn/devtools/branches/huaweiSandbox/tools_trunk/sample" />
+</project>
