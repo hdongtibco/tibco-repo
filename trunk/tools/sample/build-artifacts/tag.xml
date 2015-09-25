@@ -1,0 +1,9 @@
+
+<project name="Tag: com.tibco.sample.feature : common.tools.sample-1.0.0.004">
+            <property name="autobuild.git.tag.target" value="common.tools.sample-1.0.0.004" />
+            <property name="autobuild.git.tag.target.revision" value="c581ebde830918fec42f0258ddeb7b2b7bb4241b" />
+            <property name="autobuild.git.tag.target.source.url" value="https://github.com/hdongtibco/tibco-repo" />
+            <property name="autobuild.git.tag.target.tagname-base" value="common.tools.sample-1.0.0.004" />
+            <property name="autobuild.git.tag.target.tagname" value="branches/huaweiSandbox/tags/tools/common.tools.sample-1.0.0.004/tools.sample" />
+</project>
+				
